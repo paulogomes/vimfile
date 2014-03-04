@@ -1,5 +1,5 @@
 set nobackup
 set nowritebackup
 
-# Add Pathogen
+" Add Pathogen
 execute pathogen#infect()
