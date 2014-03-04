@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/paulo/projetos/Meu_Novo_Lar/src/meu-novo-lar'
+let g:netrw_dirhist_2='/home/paulo/projetos/Meu_Novo_Lar/src/meu-novo-lar/config'
+let g:netrw_dirhist_3='/home/paulo/projetos/Meu_Novo_Lar/src/mnl'
